@@ -5,7 +5,7 @@ This was coded primarily in HTML, CSS, and JS with the site running off of an in
 
 You can make a pull request if you would like to add simple comments or other simple features to the site, as this is supposed to be open source if you'd like to use something similar.
 
-# TO-DO List for the project:
+To-Do List for the project:
 [] Once the script reaches christmas, reset it to the next year (i.e simply add another year once the script counts down to 0.)
 [] Clean up the cascading sheet file (CSS)
 
